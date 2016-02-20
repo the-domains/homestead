@@ -4,8 +4,15 @@
         <description><![CDATA[Sand Castles]]></description>
         <link>https://thegrid.ai/homestead/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 20 Feb 2016 11:59:40 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Feb 2016 11:59:49 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/homestead/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Pacific Reminiscence by Victor Vosen]]></title>
+            <description><![CDATA[<article><h1>Pacific Reminiscence by Victor Vosen</h1><p>Wouldn't this be a nice place to nap, paint, and booze it up some in the sun and sand with breezes blowing sweetly keeping you cool with toes in the w...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c7a7a6fe01089a7e4154332be619d1e3cad1ec05.jpg"></article>]]></description>
+            <link>http://victor-vosen.pixels.com/featured/pacific-reminiscence-victor-vosen.html</link>
+            <guid isPermaLink="false">3f830e9b-5b99-4db8-ad47-0f47a4c728e9</guid>
+            <pubDate>Sat, 20 Feb 2016 11:58:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Mountain Mood by Victor Vosen]]></title>
             <description><![CDATA[<article><h1>Mountain Mood by Victor Vosen</h1><p>It's fall, it's rainy, it's grey, needed to do this to take off from monotony and see something of the world when worlds are so closed and wet. Today...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dfc220f8bf1bd0a192748b40dc7413b7e67b5d80.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c3fd5a44-8df0-4e55-abb4-58998902b1cf.jpg">]]></description>
             <link>https://thegrid.ai/homestead/1251a6ad-bc69-43f8-843f-75da69edd68d/index.html</link>
             <guid isPermaLink="false">1251a6ad-bc69-43f8-843f-75da69edd68d</guid>
-            <pubDate>Sat, 20 Feb 2016 10:00:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/27676a11-334e-4c19-8111-84c66b1e5e81.jpg">]]></description>
-            <link>https://thegrid.ai/homestead/f5a81e9b-60fc-4e96-a315-62c448452b50/index.html</link>
-            <guid isPermaLink="false">f5a81e9b-60fc-4e96-a315-62c448452b50</guid>
             <pubDate>Sat, 20 Feb 2016 10:00:28 GMT</pubDate>
         </item>
     </channel>
