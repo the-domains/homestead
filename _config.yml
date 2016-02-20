@@ -1,0 +1,28 @@
+name: homestead
+favicon: null
+layout_spectrum: 0.6004970988724381
+typography_spectrum: 0.9666266883723438
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.10084340651519597
+  lightness: 0.7375412974506617
+  saturation: 0.9790217904374003
+  rhythmicContrast: 0.822831753641367
+purpose: []
