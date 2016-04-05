@@ -1,6 +1,6 @@
 name: homestead
 favicon: null
-layout_spectrum: 0.3742
+layout_spectrum: 1
 typography_spectrum: 0.88953
 title: Sand Castles
 cta:
@@ -22,8 +22,8 @@ color:
     - '#b7cfdb'
     - '#07281f'
     - '#5e4a89'
-  brandStrength: 0
-  lightness: 0.5
-  saturation: 0.9375
-  rhythmicContrast: 0
+  brandStrength: 1
+  lightness: 0
+  saturation: 0.3125
+  rhythmicContrast: 0.25
 purpose: []
