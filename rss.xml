@@ -4,8 +4,15 @@
         <description><![CDATA[Sand Castles]]></description>
         <link>https://thegrid.ai/homestead/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 10 May 2016 01:12:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 May 2016 17:27:48 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/homestead/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/efebb516-9e69-43cd-8094-e9cc31a1c1db.jpg">]]></description>
+            <link>https://thegrid.ai/homestead/got-my-juried-material-back-from-review-and-got-a-lot-of-gr/index.html</link>
+            <guid isPermaLink="false">62227a9e-5212-4c84-ac1f-a19a2511b1c7</guid>
+            <pubDate>Tue, 31 May 2016 17:27:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/accb84ae-91fc-4562-bc3a-ebba2ea73e19.png">]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<img src="http://images.fineartamerica.com/images/artworkimages/mediumlarge/1/cloud-dreams-victor-vosen.jpg">]]></description>
             <link>http://victor-vosen.pixels.com/featured/cloud-dreams-victor-vosen.html</link>
             <guid isPermaLink="false">b1bfdbcf-984f-452f-b6bb-0d00d95ba2af</guid>
-            <pubDate>Sat, 20 Feb 2016 11:58:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="http://images.fineartamerica.com/images/artworkimages/mediumlarge/1/summer-day-victor-vosen.jpg">]]></description>
-            <link>http://victor-vosen.pixels.com/featured/summer-day-victor-vosen.html</link>
-            <guid isPermaLink="false">baa9614a-c24b-4a83-8130-bca7e0a3754c</guid>
             <pubDate>Sat, 20 Feb 2016 11:58:41 GMT</pubDate>
         </item>
     </channel>
