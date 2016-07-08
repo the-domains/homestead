@@ -4,8 +4,15 @@
         <description><![CDATA[Sand Castles]]></description>
         <link>https://thegrid.ai/homestead/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 08 Jul 2016 07:16:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Jul 2016 07:21:14 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/homestead/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Valley View by Victor Vosen]]></title>
+            <description><![CDATA[<article><h1>Valley View by Victor Vosen</h1><p>Looking out across the valley, everything gets so small, and from a distance one can see both forever but the bigger that approaches from the distant...</p><img src="http://images.fineartamerica.com/images/artworkimages/mediumlarge/1/valley-view-victor-vosen.jpg"></article>]]></description>
+            <link>http://victor-vosen.pixels.com/featured/valley-view-victor-vosen.html</link>
+            <guid isPermaLink="false">7a9ffb95-1e1a-429f-b54a-53b6b1180e6d</guid>
+            <pubDate>Fri, 08 Jul 2016 07:20:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/628fc8c7-f492-4937-8820-4f5a153b6021.jpg" alt="Another Painting done a couple of weeks ago outside under natural light, but from imaginarium again done on cotton rag with lightfast watercolors.  Was just trying to keep in practice with this one, so it&apos;s not the greatest, but I like some things about it.  Titled:  Mountain Beauty">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/homestead/also-i-made-this-recording-on-the-21st-that-i-would-like-to/index.html</link>
             <guid isPermaLink="false">6473454c-0430-46fc-b520-3228b919a715</guid>
             <pubDate>Thu, 24 Mar 2016 04:40:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/354db12c-8c7a-4963-990d-db565d6ec89c.jpg">]]></description>
-            <link>https://thegrid.ai/homestead/f06e377f-266b-4a16-abd8-a90baa046743/index.html</link>
-            <guid isPermaLink="false">f06e377f-266b-4a16-abd8-a90baa046743</guid>
-            <pubDate>Sun, 21 Feb 2016 16:38:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
