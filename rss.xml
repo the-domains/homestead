@@ -4,8 +4,15 @@
         <description><![CDATA[Sand Castles]]></description>
         <link>https://thegrid.ai/homestead/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 08 Jul 2016 18:41:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Jul 2016 18:43:46 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/homestead/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Bending of the Flexible]]></title>
+            <description><![CDATA[<article><h1>The Bending of the Flexible</h1><p>The birds sing differently in a city Three syllables instead of two on Robin's tongue A brashing grate to a chickadee's call And the ravens scout not for food, but garbage... In lanes of space colonies with space-ships Parked in garages two at a time And lantern's lit against the eternal darkness That is perhaps the dark-side, of mankind...</p></article>]]></description>
+            <link>http://anvilheat.blogspot.com/2016/06/moons-haloed-sky.html</link>
+            <guid isPermaLink="false">f59a6287-45f7-4630-95bb-471a771a50fb</guid>
+            <pubDate>Fri, 08 Jul 2016 18:43:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Pacific Reminiscence by Victor Vosen]]></title>
             <description><![CDATA[<article><h1>Pacific Reminiscence by Victor Vosen</h1><p>Wouldn't this be a nice place to nap, paint, and booze it up some in the sun and sand with breezes blowing sweetly keeping you cool with toes in the w...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b87eabe1197e948494e85c7a5d18f6a205c87da7.jpg"></article>]]></description>
@@ -22,7 +29,7 @@
         </item>
         <item>
             <title><![CDATA[Hysham Rangeland by Victor Vosen]]></title>
-            <description><![CDATA[<article><h1>Hysham Rangeland by Victor Vosen</h1><p>Was passing through Montana on the interstate and the big sandstone bluffs were all over passing through Billings, MT on my way to holiday festivities...</p><img src="http://images.fineartamerica.com/images/artworkimages/mediumlarge/1/hysham-rangeland-victor-vosen.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Hysham Rangeland by Victor Vosen</h1><p>Was passing through Montana on the interstate and the big sandstone bluffs were all over passing through Billings, MT on my way to holiday festivities...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ceb0b00197e82a92eac91d6178a2914a/noop.jpg?input=http%3A%2F%2Fimages.fineartamerica.com%2Fimages%2Fartworkimages%2Fmediumlarge%2F1%2Fhysham-rangeland-victor-vosen.jpg"></article>]]></description>
             <link>http://victor-vosen.pixels.com/featured/hysham-rangeland-victor-vosen.html</link>
             <guid isPermaLink="false">028db99b-aea2-4fb3-b48c-e973092fece4</guid>
             <pubDate>Fri, 08 Jul 2016 18:41:26 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/homestead/got-my-juried-material-back-from-review-and-got-a-lot-of-gr/index.html</link>
             <guid isPermaLink="false">62227a9e-5212-4c84-ac1f-a19a2511b1c7</guid>
             <pubDate>Tue, 31 May 2016 17:27:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/accb84ae-91fc-4562-bc3a-ebba2ea73e19.png">]]></description>
-            <link>https://thegrid.ai/homestead/outlook-of-the-mountains-and-while-peering-out-is-bear-hang/index.html</link>
-            <guid isPermaLink="false">19516bdc-8cb5-4ea6-a3c6-ad3aeb57cc80</guid>
-            <pubDate>Tue, 10 May 2016 01:12:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
