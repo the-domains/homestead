@@ -4,8 +4,15 @@
         <description><![CDATA[Sand Castles]]></description>
         <link>https://thegrid.ai/homestead/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 31 May 2016 17:28:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Jul 2016 07:10:32 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/homestead/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Rise Above Baseline]]></title>
+            <description><![CDATA[<article><h1>Rise Above Baseline</h1><p>A painting done over a couple of days done in the studio from imaginarium on cotton rag with lightfast watercolors.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b70647b8-73da-4871-86d8-74bcf93ed020.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/b70647b8-73da-4871-86d8-74bcf93ed020.jpg</link>
+            <guid isPermaLink="false">1ac71bef-08bb-433e-b9e1-040d8bed6c66</guid>
+            <pubDate>Fri, 08 Jul 2016 07:10:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8fdb06f6-c760-4565-b567-85f4317cdb81.jpg">]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Amongst The Skies by Victor Vosen</h1><p>Amongst the skies and the light it is said our ancestors' breath still whispers it's truth for those whom learn and would be learned. May all days gr...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6c7220d3418b8d6b9d4c10c38fb1729cb5c77cc9.jpg"></article>]]></description>
             <link>http://victor-vosen.pixels.com/featured/amongst-the-skies-victor-vosen.html</link>
             <guid isPermaLink="false">b904de52-fc79-4e71-900d-1374e05a418f</guid>
-            <pubDate>Sat, 20 Feb 2016 11:58:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Pacific Reminiscence by Victor Vosen]]></title>
-            <description><![CDATA[<article><h1>Pacific Reminiscence by Victor Vosen</h1><p>Wouldn't this be a nice place to nap, paint, and booze it up some in the sun and sand with breezes blowing sweetly keeping you cool with toes in the w...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b87eabe1197e948494e85c7a5d18f6a205c87da7.jpg"></article>]]></description>
-            <link>http://victor-vosen.pixels.com/featured/pacific-reminiscence-victor-vosen.html</link>
-            <guid isPermaLink="false">3f830e9b-5b99-4db8-ad47-0f47a4c728e9</guid>
             <pubDate>Sat, 20 Feb 2016 11:58:42 GMT</pubDate>
         </item>
     </channel>
