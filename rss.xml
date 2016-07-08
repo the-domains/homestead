@@ -4,8 +4,15 @@
         <description><![CDATA[Sand Castles]]></description>
         <link>https://thegrid.ai/homestead/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 08 Jul 2016 07:10:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Jul 2016 07:16:17 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/homestead/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/628fc8c7-f492-4937-8820-4f5a153b6021.jpg" alt="Another Painting done a couple of weeks ago outside under natural light, but from imaginarium again done on cotton rag with lightfast watercolors.  Was just trying to keep in practice with this one, so it&apos;s not the greatest, but I like some things about it.  Titled:  Mountain Beauty">]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/628fc8c7-f492-4937-8820-4f5a153b6021.jpg</link>
+            <guid isPermaLink="false">e9a51ecc-6ca6-49e6-b200-9bc99155366d</guid>
+            <pubDate>Fri, 08 Jul 2016 07:16:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Rise Above Baseline]]></title>
             <description><![CDATA[<article><h1>Rise Above Baseline</h1><p>A painting done over a couple of days done in the studio from imaginarium on cotton rag with lightfast watercolors.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b70647b8-73da-4871-86d8-74bcf93ed020.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/homestead/f06e377f-266b-4a16-abd8-a90baa046743/index.html</link>
             <guid isPermaLink="false">f06e377f-266b-4a16-abd8-a90baa046743</guid>
             <pubDate>Sun, 21 Feb 2016 16:38:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Amongst The Skies by Victor Vosen]]></title>
-            <description><![CDATA[<article><h1>Amongst The Skies by Victor Vosen</h1><p>Amongst the skies and the light it is said our ancestors' breath still whispers it's truth for those whom learn and would be learned. May all days gr...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6c7220d3418b8d6b9d4c10c38fb1729cb5c77cc9.jpg"></article>]]></description>
-            <link>http://victor-vosen.pixels.com/featured/amongst-the-skies-victor-vosen.html</link>
-            <guid isPermaLink="false">b904de52-fc79-4e71-900d-1374e05a418f</guid>
-            <pubDate>Sat, 20 Feb 2016 11:58:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
