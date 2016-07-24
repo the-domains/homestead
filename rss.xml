@@ -4,8 +4,15 @@
         <description><![CDATA[Sand Castles]]></description>
         <link>https://thegrid.ai/homestead/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Jul 2016 06:13:33 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2016 22:43:34 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/homestead/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/77b9ff37-45cf-476c-bac2-6b017990124c.jpg" alt="Monarch Flatirons">]]></description>
+            <link>https://thegrid.ai/homestead/went-to-the-park-and-sketched-this-out-went-to-go-back-to-p/index.html</link>
+            <guid isPermaLink="false">bbd7ca40-3480-4b1c-92f4-70fabb118277</guid>
+            <pubDate>Sun, 24 Jul 2016 22:43:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b99c8c5c-2622-40b7-9c31-c7ca06e7fdda.jpg" alt="View of the Bitteroots south of the mouth of the Bullriver.  Painted this plein air with a relative while we sat and got jellooed from the fresh air, blue sky, and warm sun.  This small painting doesn&apos;t capture the length of the valley or the majesty of the sky, but could take you there...">]]></description>
@@ -68,13 +75,6 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/b70647b8-73da-4871-86d8-74bcf93ed020.jpg</link>
             <guid isPermaLink="false">1ac71bef-08bb-433e-b9e1-040d8bed6c66</guid>
             <pubDate>Fri, 08 Jul 2016 07:10:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8fdb06f6-c760-4565-b567-85f4317cdb81.jpg">]]></description>
-            <link>https://thegrid.ai/homestead/this-i-did-plein-aire-with-my-sister-out-in-her-side-40-past/index.html</link>
-            <guid isPermaLink="false">5d1169a6-7655-4b5e-8b38-768fc38287f2</guid>
-            <pubDate>Tue, 31 May 2016 17:27:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
