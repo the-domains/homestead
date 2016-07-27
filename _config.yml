@@ -1,20 +1,4 @@
-name: homestead
-favicon: null
-layout_spectrum: 0.3070587939582765
 typography_spectrum: 0.4008538965135813
-title: Sand Castles
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: 777426661265-obabyMYoMY
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#1d4d63'
@@ -26,4 +10,21 @@ color:
   lightness: 0
   saturation: 0.5625
   rhythmicContrast: 0.25
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.3070587939582765
+analytics:
+  google: 777426661265-obabyMYoMY
+  facebook: null
+  twitter: null
+name: homestead
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Sand Castles
+description: Where the ephemeral world builds it's skyscrapers and monuments
 purpose: []
