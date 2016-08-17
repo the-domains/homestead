@@ -4,8 +4,15 @@
         <description><![CDATA[Sand Castles]]></description>
         <link>https://thegrid.ai/homestead/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Jul 2016 17:19:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Aug 2016 21:27:38 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/homestead/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a8c9f712-0125-427c-be17-4c8282da5b4e.jpg">]]></description>
+            <link>https://thegrid.ai/homestead/painted-this-along-side-a-slackwater-road-on-the-scenic-rout/index.html</link>
+            <guid isPermaLink="false">bbd0c3e4-92ef-49e1-98dc-1c88dc4c6a6c</guid>
+            <pubDate>Wed, 17 Aug 2016 21:27:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Emerald Forest]]></title>
             <description><![CDATA[<article><h1>Emerald Forest</h1><p>Went outside today and lo and behold I was surrounded by Nature. Painted this not far away in the Kootenai National Forest where the boaters hadn’t gotten out on the water yet and the campers hadn’t gotten up. To the fisherwomans’ credit, we started about the same time. So I woke up at 5:30 and wanted to take my truck for a spin since I changed the spark plugs, and it ran beautifully and this struck energetic.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0a86c328-5dec-411b-bc47-7613902e5b74.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://victor-vosen.pixels.com/featured/hysham-rangeland-victor-vosen.html</link>
             <guid isPermaLink="false">028db99b-aea2-4fb3-b48c-e973092fece4</guid>
             <pubDate>Fri, 08 Jul 2016 18:41:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Valley View by Victor Vosen]]></title>
-            <description><![CDATA[<article><h1>Valley View by Victor Vosen</h1><p>Looking out across the valley, everything gets so small, and from a distance one can see both forever but the bigger that approaches from the distant...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/8577248bf0a22cdc004bacd124bb9a85/noop.jpg?input=http%3A%2F%2Fimages.fineartamerica.com%2Fimages%2Fartworkimages%2Fmediumlarge%2F1%2Fvalley-view-victor-vosen.jpg"></article>]]></description>
-            <link>http://victor-vosen.pixels.com/featured/valley-view-victor-vosen.html</link>
-            <guid isPermaLink="false">7a9ffb95-1e1a-429f-b54a-53b6b1180e6d</guid>
-            <pubDate>Fri, 08 Jul 2016 07:20:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
