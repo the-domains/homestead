@@ -1,20 +1,20 @@
-typography_spectrum: 0.4008538965135813
+typography_spectrum: 0.08566932054236531
 color:
   brandColors:
-    - '#1d4d63'
-    - '#8590b0'
-    - '#b7cfdb'
-    - '#07281f'
-    - '#5e4a89'
-  brandStrength: 0.125
-  lightness: 0
-  saturation: 0.5625
-  rhythmicContrast: 0.25
+    - '#36362C'
+    - '#5D917D'
+    - '#A8AD80'
+    - '#E6D4A7'
+    - '#825534'
+  brandStrength: 0.5511645015794784
+  lightness: 0.48740102304145694
+  saturation: 0.9058510239701718
+  rhythmicContrast: 0.3934615864418447
 opengraph:
   image: null
   type: null
   appId: null
-layout_spectrum: 0.3070587939582765
+layout_spectrum: 0.18220102414488792
 analytics:
   google: 777426661265-obabyMYoMY
   facebook: null
