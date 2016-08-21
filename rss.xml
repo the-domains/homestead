@@ -4,8 +4,22 @@
         <description><![CDATA[Sand Castles]]></description>
         <link>https://thegrid.ai/homestead/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 17 Aug 2016 21:28:12 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Aug 2016 18:03:44 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/homestead/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Bending of the Flexible]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/da9716c2-1a92-4ce0-838d-84a19b64ab5b.jpg">]]></description>
+            <link>http://anvilheat.blogspot.com/2016/08/in-trying-we-rise.html</link>
+            <guid isPermaLink="false">9dd0a71e-1809-4c12-88ac-80f0aa95c549</guid>
+            <pubDate>Sun, 21 Aug 2016 18:03:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b57916ac-a849-4cf3-9b6d-8df5472c27d3.jpg">]]></description>
+            <link>https://thegrid.ai/homestead/ye-old-mount-billiard-table-rises-up-above-the-bullriver-val/index.html</link>
+            <guid isPermaLink="false">2e5d8a48-cefc-4fce-9535-7ab84833a07d</guid>
+            <pubDate>Sun, 21 Aug 2016 18:00:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/390e4d00-0496-4db5-ae86-abf28a18940d.jpg">]]></description>
@@ -61,20 +75,6 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/5a0728e9-3578-4a66-91ce-bc8ecbd8503c.jpg</link>
             <guid isPermaLink="false">b7d9943f-b5e4-4737-b2d8-2fa7a4bdbf9e</guid>
             <pubDate>Fri, 08 Jul 2016 22:17:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<article><img src="https://s3-us-west-2.amazonaws.com/paints-victorv/paints/abreast-of-dawn-victor-vosen.jpg"></article>]]></description>
-            <link>https://s3-us-west-2.amazonaws.com/paints-victorv/paints/abreast-of-dawn-victor-vosen.jpg</link>
-            <guid isPermaLink="false">fa593188-b0cc-4017-94bf-e1a640b43951</guid>
-            <pubDate>Fri, 08 Jul 2016 21:51:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Pine Holding Skies by Victor Vosen]]></title>
-            <description><![CDATA[<article><h1>Pine Holding Skies by Victor Vosen</h1><p>Pines and Giants hold up the skies in this wintery scene. Take delight in owning this picture today and gaze out upon the ridges snow covered that wh...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4365f8f6e8c45d5ab476741f6313c53cb8789237.jpg"></article>]]></description>
-            <link>http://victor-vosen.pixels.com/featured/pine-holding-skies-victor-vosen.html</link>
-            <guid isPermaLink="false">677ee2ef-b34c-49ea-ab16-fe07ae063669</guid>
-            <pubDate>Fri, 08 Jul 2016 18:41:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
